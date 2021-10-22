@@ -1,5 +1,8 @@
 _repo: Observations-on-Abortion-Containing-an-account-of-the-manner-in-which-it-is-accomplished-the-__66506
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66506-h/images/cover.jpg
 creator:
   author:
     agent_name: Burns, John
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '50517'
     url: http://www.gutenberg.org/2009/agents/50517
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66506#Observations-on-Abortion-Containing-an-account-of-the-manner-in-which-it-is-accomplished-the-_
 gutenberg_issued: '2021-10-10'
 identifiers:
   gutenberg: '66506'
